@@ -18,7 +18,9 @@ git commit -m "commit message"
 git commit -a -m "commit message" // stages change and commits in one operation
 git status [--short]
 git fetch origin
-git remote add origin https://github.com/vschipilow/hello-world.git
+git remote add origin https://github.com/vschipilow/Sudoku.git
+git branch -M main
+git push -u origin main
 // end git doco */
 
 import SwiftUI
