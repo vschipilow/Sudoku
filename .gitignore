@@ -1,0 +1,9 @@
+# ignore all files
+*
+# except =>
+!/.gitignore
+# folder Sudoku
+!/Sudoku
+!/Sudoku/ContentView.swift
+!/Sudoku/SudokuApp.swift
+
